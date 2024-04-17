@@ -1,0 +1,10 @@
+body {
+    background-color: #171a21; /* Dark background for fireworks */
+    font-family: 'Dancing Script', cursive;
+  }
+  
+  h1 {
+    color: #f5b6c3; /* Light pink for text */
+    text-shadow: 0 0 3px #f5b6c3, 0 0 5px #e74c3c; /* Add subtle shadow */
+  }
+  
